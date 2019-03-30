@@ -1,0 +1,6 @@
+C:\Projects\TransformadorNumeroOnTexto\TransformadorNumeroOnTexto\bin\Debug\TransformadorNumeroOnTexto.exe.config
+C:\Projects\TransformadorNumeroOnTexto\TransformadorNumeroOnTexto\bin\Debug\TransformadorNumeroOnTexto.exe
+C:\Projects\TransformadorNumeroOnTexto\TransformadorNumeroOnTexto\bin\Debug\TransformadorNumeroOnTexto.pdb
+C:\Projects\TransformadorNumeroOnTexto\TransformadorNumeroOnTexto\obj\Debug\TransformadorNumeroOnTexto.exe
+C:\Projects\TransformadorNumeroOnTexto\TransformadorNumeroOnTexto\obj\Debug\TransformadorNumeroOnTexto.pdb
+C:\Projects\TransformadorNumeroOnTexto\TransformadorNumeroOnTexto\obj\Debug\TransformadorNumeroOnTexto.csprojResolveAssemblyReference.cache
